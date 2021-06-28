@@ -2,7 +2,7 @@
 
 ## Installation
 
-You can follow [this documentaion](install_linux_client.md) to install Seafile CLI client on various Linux distributions.
+You can follow [this documentation](install_linux_client.md) to install Seafile CLI client on various Linux distributions.
 
 ## Basic Usage
 
